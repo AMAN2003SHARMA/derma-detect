@@ -1,0 +1,5 @@
+{
+  "name": "DermaDetect AI: Skin Disease Detection System",
+  "description": "An AI-powered web application for preliminary skin disease detection. Users can upload an image of a skin condition, and the Gemini-powered AI assistant provides a report with potential conditions, confidence scores displayed in charts, and general information. The app also includes a progress tracker to view past analyses and an advanced AI chatbot for skin health inquiries. This is a tool for informational purposes and not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
